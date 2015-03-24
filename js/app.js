@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-	var polyglot = new Polyglot();
+	polyglot = new Polyglot();
 
 
 	var url = '<script src="js/i18n/en.js"></script>'; 

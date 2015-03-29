@@ -1,0 +1,13 @@
+{
+    "name": "datavis",
+    "main": "index.html",
+    "window": {
+        "toolbar": true,
+        "width": 800,
+        "height": 600
+    },
+    "single-instance": false,
+    "version": "1alpha",
+    "chromium-args" : "--allow-file-access-from-files --disable-web-security",
+    "private": true
+}
